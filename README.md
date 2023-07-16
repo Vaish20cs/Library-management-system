@@ -1,5 +1,5 @@
 # Library-management-system
- Developed a website to efficiently manage the library’s daily activities.   Used Java Swing as front-end framework.  Used MySQL as database.
+A computerized system that helps to manage the library’s daily activity in electronic format. Used Java Swing as front-end framework and MySQL as database.
 ### System Features
 1) User Login:<br/>
 - Users can log in with their registered user ID and password.<br/>
